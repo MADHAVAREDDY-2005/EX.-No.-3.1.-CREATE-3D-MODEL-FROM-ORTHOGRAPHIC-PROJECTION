@@ -1,6 +1,7 @@
 # EX. No.3.1. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
-## DATE:
-
+## DATE: 29-03-2025
+### Name: K MADHAVA REDDY
+### REG NO: 212223240064
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -41,6 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/75785acc-b2b9-472d-86c6-e4fb4710df01)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
